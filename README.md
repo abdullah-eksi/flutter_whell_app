@@ -1,6 +1,6 @@
-### README.md
 
-```markdown
+
+
 # Çark Uygulaması
 
 Bu proje, Flutter kullanarak oluşturulmuş bir Çark Uygulaması'dır. Bu uygulama, kullanıcının bir çark etrafında dönen ve rastgele bir elemanı seçen bir animasyon oluşturmasına olanak tanır. Kullanıcılar ayrıca çarka yeni elemanlar ekleyebilirler.

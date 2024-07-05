@@ -38,7 +38,9 @@ flutter run
 ### main.dart
 
 Bu dosya, uygulamanın giriş noktasıdır. `MyApp` sınıfı, uygulamanın genel yapısını tanımlar ve `WheelWidget` bileşenini ana ekran olarak ayarlar.
-
+## Metodlar ve Fonksiyonlar
+- **`topbar`**: Bu metod, topbar için oluşturulmuş bir widget metodudur.
+- **`WheelWidget`**: Bu metod sayesinde farklı dosyada çark widgetimizi olusturup kod karmasasının onune geçmek için:
 ```dart
 import 'package:flutter/material.dart';
 import 'package:carkapp/whell.dart';

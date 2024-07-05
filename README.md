@@ -280,4 +280,4 @@ class _WheelWidgetState extends State<WheelWidget> {
 ## Lisans
 
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakınız.
-```
+

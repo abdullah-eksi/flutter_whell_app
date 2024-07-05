@@ -1,2 +1,2 @@
-# cark_app
- 
+# cark_uygulamasi
+ Flutter Çark Uygulaması

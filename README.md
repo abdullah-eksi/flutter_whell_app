@@ -9,7 +9,9 @@ Bu proje, Flutter kullanarak oluşturulmuş bir Çark Uygulaması'dır. Bu uygul
 
 - Flutter SDK
 - Dart SDK
-
+- flutter_fortune_wheel: ^1.3.1
+- flutter_launcher_icons: "^0.13.1"
+  
 ## Kurulum
 
 1. Flutter SDK'yı [buradan](https://flutter.dev/docs/get-started/install) yükleyin.

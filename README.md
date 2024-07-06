@@ -17,7 +17,7 @@ Bu proje, Flutter kullanarak oluşturulmuş bir Çark Uygulaması'dır. Bu uygul
 1. Flutter SDK'yı [buradan](https://flutter.dev/docs/get-started/install) yükleyin.
 2. Projeyi yerel makinenize klonlayın.
    ```bash
-   git clone https://github.com/kullaniciadi/carkapp.git
+   git clone https://github.com/abdullah-eksi/flutter_whell_app.git
    ```
 3. Proje dizinine gidin.
    ```bash

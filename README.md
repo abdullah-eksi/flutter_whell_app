@@ -21,7 +21,7 @@ Bu proje, Flutter kullanarak oluşturulmuş bir Çark Uygulaması'dır. Bu uygul
    ```
 3. Proje dizinine gidin.
    ```bash
-   cd carkapp
+   cd flutter_whell_app
    ```
 4. Gerekli paketleri yükleyin.
    ```bash
